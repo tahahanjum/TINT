@@ -1,0 +1,59 @@
+Tint — Proprietary License
+
+Copyright (c) 2026 Taha Anjum. All rights reserved.
+
+Tint, including its source code, compiled program, installer, icons, images,
+documentation, design and all other files (together, "the Software"), was
+created by and is the exclusive property of Taha Anjum. The Software is
+licensed, not sold. All rights not expressly granted below are reserved by
+Taha Anjum.
+
+1. PERMITTED USE
+
+   You may download the official Tint installer published by Taha Anjum and
+   install and use the Software on computers you own or control, for your own
+   personal, non-commercial use. This permission is personal to you, cannot be
+   transferred, and gives you no ownership of the Software.
+
+2. RESTRICTIONS
+
+   Without prior written permission from Taha Anjum, you may NOT:
+
+   a) copy, fork, clone or mirror the Software or any part of it, except for
+      the single installation allowed in section 1;
+   b) modify, adapt, translate or create derivative works based on the
+      Software;
+   c) reuse any part of the Software's source code, assets, design or
+      documentation in any other project, product or service;
+   d) sell, resell, rent, lease, sublicense, publish, distribute or otherwise
+      make the Software available to anyone else, whether free of charge or
+      for payment;
+   e) use the Software, or any part of it, for any commercial purpose;
+   f) decompile, disassemble or reverse engineer the Software, except where
+      applicable law expressly allows this despite this restriction;
+   g) remove or change any copyright notice, this license, or the name of the
+      author.
+
+3. TERMINATION
+
+   This license ends automatically if you break any of its terms. When it
+   ends, you must stop using the Software and delete all copies you have.
+
+4. THIRD-PARTY COMPONENTS
+
+   The Software includes third-party components that remain under their own
+   licenses: the Microsoft .NET runtime (MIT License) and
+   SixLabors.ImageSharp (Six Labors Split License). This license does not
+   restrict your rights to those components under their own licenses.
+
+5. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   TAHA ANJUM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+   AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE
+   SOFTWARE, INCLUDING ANY EFFECT ON YOUR HARDWARE OR ITS LIGHTING.
+
+For permission requests, contact Taha Anjum through https://github.com/tahahanjum.
