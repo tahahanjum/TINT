@@ -42,9 +42,16 @@ Taha Anjum.
 4. THIRD-PARTY COMPONENTS
 
    The Software includes third-party components that remain under their own
-   licenses: the Microsoft .NET runtime (MIT License) and
-   SixLabors.ImageSharp (Six Labors Split License). This license does not
-   restrict your rights to those components under their own licenses.
+   licenses and are not covered by this license:
+   - the Microsoft .NET runtime (MIT License);
+   - SixLabors.ImageSharp (Six Labors Split License);
+   - OpenRGB 1.0, included unmodified in the "openrgb" folder (GNU General
+     Public License v2 or later). Its license and a link to its source code
+     are in that folder, and its source is available at
+     https://github.com/CalcProgrammer1/OpenRGB/tree/release_1.0.
+   This license does not restrict your rights to those components under their
+   own licenses. The restrictions in section 2 apply only to Tint's own code,
+   assets and documentation.
 
 5. NO WARRANTY
 
